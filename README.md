@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I am currently a third-year diploma student specia
 ## Skills
 
 - **Languages:** Python, Java, C++, HTML, CSS, JavaScript
-- **Technologies:** Git, GitHub, SQL, React, Node.js
-- **Tools:** VS Code, Eclipse, MySQL Workbench, Postman
 
 
 ## Get in Touch
